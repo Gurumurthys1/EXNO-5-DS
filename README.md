@@ -40,4 +40,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 # Result:
- Include your result here
+ Suucessfully to perform Data Visualization using matplot python library for the given datas.
